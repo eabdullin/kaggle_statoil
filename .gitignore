@@ -99,3 +99,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#project
+*.hdf5
+Graph/
+test.json
+train.json
+
+#jetbrains
+.idea/
